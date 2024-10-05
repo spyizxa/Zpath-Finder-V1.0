@@ -7,6 +7,8 @@ scans sensitive directories on the target site
 ```git clone https://github.com/spyizxa/Zpath-Finder-V1.0.git```
 
 ## Run
+```cd Zpath-Finder-V1.0```
+
 ```python3 start.py```
 
 **There is a default wordlist file in the repo, you can use it or you can use your own wordlist!**
